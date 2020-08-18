@@ -1,0 +1,21 @@
+print("Área do Quadrado\n")
+lado=float(input("Digite o lado do quadrado:\n"))
+AQ=lado*lado
+print("A área do quadrado é:",AQ)
+
+print("Área do Triângulo\n")
+base=float(input("Digite a base:\n"))
+altura=float(input("Digite a altura:\n"))
+AT=(base*altura)/2
+print("A área do triângulo é:",AT)
+
+print("Área do Retângulo\n")
+base=float(input("Digite a base:\n"))
+altura=float(input("Digite a altura:\n"))
+AR=base*altura
+print("A área do retângulo é:",AR)
+
+print("Área do Circulo\n")
+raio=float(input("Digite o raio:\n"))
+AC=2*3.14*raio
+print("A área do circulo é:",AC)
