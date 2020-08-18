@@ -1,0 +1,9 @@
+x=int(input("Digite o primeiro número:\n"))
+y=int(input("Digite o segundo número:\n"))
+soma=x+y
+print("A resposta da soma é:",soma)
+
+x=input("Digite o primeiro número:\n")
+y=input("Digite o segundo número:\n")
+soma=int(x)+int(y)
+print("A resposta da soma é:",soma)
